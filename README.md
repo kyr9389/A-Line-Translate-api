@@ -17,3 +17,12 @@ translate(string)
 
 ## 기술 스택
 - Node.js
+
+
+## 개발과정
+
+블로그 포스팅으로 개발 과정을 정리해두었습니다. 아래 링크를 참고해주세요.
+
+- [A Line Translate : 한줄 번역기를 만들었어요. (크롬 확장 프로그램 개발 과정, Chrome extensions) #1](https://usage.tistory.com/72)
+- [A Line Translate : 한줄 번역기를 만들었어요. (크롬 확장 프로그램 개발 과정, Chrome extensions) #2](https://usage.tistory.com/75)
+- [A Line Translate : 한줄 번역기를 만들었어요. (크롬 확장 프로그램 개발 과정, Chrome extensions) #3](https://usage.tistory.com/76)
